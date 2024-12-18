@@ -52,4 +52,5 @@ Legal responsibility lies entirely with the user. ⚠️
 PhantomRat supports Android phones up to Android 14 and all features work seamlessly. It has been tested.
 
 Anoym841
-Telegram<...>
+
+The contact address will be written very soon.
